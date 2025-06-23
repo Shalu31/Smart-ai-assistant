@@ -43,7 +43,6 @@ The most similar chunks are fed into the language model to generate an accurate,
         ↓
 [Justification Engine] → Highlights or references context
 ## Installation
-git clone https://github.com/Shalu31/smart-assistant-research-summarizer.git
 cd smart-assistant-research-summarizer
 pip install -r requirements.txt
 streamlit run main.py

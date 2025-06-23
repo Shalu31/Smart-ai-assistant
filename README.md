@@ -15,6 +15,8 @@
 🌐 Web app built with Streamlit
 ## 🧠 How It Works
 The application processes your queries through the following steps:
+![Langchain-pdf](https://github.com/user-attachments/assets/382585e8-1852-460e-a5b9-7455c316259e)
+
 
 PDF Loading
 Reads and extracts text from one or more uploaded PDF/TXT documents.
@@ -43,7 +45,7 @@ The most similar chunks are fed into the language model to generate an accurate,
         ↓
 [Justification Engine] → Highlights or references context
 ## Installation
-cd smart-assistant-research-summarizer
+cd smart-ai-assistant
 pip install -r requirements.txt
 streamlit run main.py
 ## Sample.env
